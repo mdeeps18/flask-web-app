@@ -2,4 +2,13 @@
 conda create -p newevn python==3.9
 conda activate "D:\Dipali\Ineuron\Flask Pros\Flask Web App\newevn"
 cls
-pip install -r requirements.txt
+pip install -r requirements.txt  ## or pip install flask
+
+##insatll git and run git commands
+##create hello.py file -->
+python hello.py  #check code on gpu
+
+now add templates folde to create html files
+
+
+second ref-- https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/
