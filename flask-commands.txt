@@ -1,0 +1,5 @@
+#refernec = https://pythonhow.com/python-tutorial/flask/How-a-Flask-app-works/
+conda create -p newevn python==3.9
+conda activate "D:\Dipali\Ineuron\Flask Pros\Flask Web App\newevn"
+cls
+pip install -r requirements.txt
